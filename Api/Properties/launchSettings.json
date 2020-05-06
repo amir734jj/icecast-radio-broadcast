@@ -1,0 +1,22 @@
+﻿{
+  "iisSettings": {
+    "windowsAuthentication": false, 
+    "anonymousAuthentication": true, 
+    "iisExpress": {
+      "applicationUrl": "http://localhost:13379",
+      "sslPort": 44341
+    }
+  },
+  "profiles": {
+    "Api": {
+      "commandName": "Project",
+      "launchBrowser": false,
+      "applicationUrl": "http://localhost:5000",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "StreamSubscriptionOptions:Username": "amir734jj",
+        "StreamSubscriptionOptions:Password": "AMIR1372jj@"
+      }
+    }
+  }
+}
